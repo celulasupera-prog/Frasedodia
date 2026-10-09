@@ -1,0 +1,33 @@
+{
+    "participants": [
+        {
+            "id": "p_1",
+            "name": "Ana Silva",
+            "active": true
+        },
+        {
+            "id": "p_2",
+            "name": "Bruno Santos",
+            "active": true
+        },
+        {
+            "id": "p_3",
+            "name": "Carla Lima",
+            "active": true
+        }
+    ],
+    "cycleNumber": 1,
+    "drawnParticipantIds": [
+        "p_2"
+    ],
+    "history": [
+        {
+            "id": "draw_1791554970",
+            "date": "2026-10-12T11:09:30.583513",
+            "participantId": "p_2",
+            "participantName": "Bruno Santos",
+            "phrase": "",
+            "cycleNumber": 1
+        }
+    ]
+}
